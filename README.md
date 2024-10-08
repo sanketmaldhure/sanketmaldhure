@@ -89,12 +89,20 @@ MERN Stack Developer adept at crafting dynamic web solutions. Proficient in Mong
   <br/>
 
   ### Let's Connect :coffee:
-<p align="center">
-	<a href="https://github.com/nouveau-riche"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/nikunj-sharma-136182194/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.instagram.com/_nikunjjsharma/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://twitter.com/Nikunjs07673277"><img src="https://img.icons8.com/bubbles/50/000000/twitter-circled.png" alt="Twitter"/></a>
-</p>
+<div align="left">
+  <a href="mailto:abhigadlinge@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=E-Mail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://twitter.com/abhigadlinge" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/abhijeet-gadlinge-794a711bb/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.gg/abhigadlinge" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+</div>
 <!--
 **sanketmaldhure/sanketmaldhure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
