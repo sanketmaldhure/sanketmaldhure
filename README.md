@@ -53,11 +53,11 @@ MERN Stack Developer adept at crafting dynamic web solutions. Proficient in Mong
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
   <img width="12" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Light.svg" height="30" alt="mongodb logo"  />
+ <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Light.svg" height="30" alt="aws logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
   <img width="12" />
