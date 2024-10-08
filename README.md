@@ -1,6 +1,6 @@
-## Hey,  I'm Sanket Maldhure <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> it's nice to meet you
+<h3 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15px"> , I'm  Sanket Maldhure </h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&center=true&width=435&lines=Hey+I'm+Full+Stack++Web+Developer;+Hey+I'm+Front-end+Developer;Hey+I'm+Back-end+Developer;Hey+I'm+React+js+Developer;Hey+I'm+Node+js+Developer;Hey+I'm+Open+Source+Contributer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=435&lines=Hey+I'm+Full+Stack++Web+Developer;+Hey+I'm+Front-end+Developer;Hey+I'm+Back-end+Developer;Hey+I'm+React+js+Developer;Hey+I'm+Node+js+Developer;Hey+I'm+Open+Source+Contributer)](https://git.io/typing-svg)
 
 <!--
 **sanketmaldhure/sanketmaldhure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
