@@ -1,4 +1,4 @@
-<h3 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15px"> , I'm  Sanket Maldhure </h3> <hr/>
+<h3 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15px"> , I'm  Sanket Maldhure </h3> 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&width=435&lines=+I+am+Full+Stack++Web+Developer;++I+am+Front-end+Developer;+I+am+Back-end+Developer;I+am+React+js+Developer;I+am+Node+js+Developer;I+am+Open+Source+Contributer" alt="Typing SVG" /></a>
 
