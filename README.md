@@ -6,7 +6,17 @@ MERN Stack Developer adept at crafting dynamic web solutions. Proficient in Mong
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanketmaldhure-github-username&style=flat-square" alt="sanketmaldhure" /></p>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhigadlinge&label=Profile%20views&color=0e75b6&style=flat" alt="sanketmaldhure" /> </p> -->
 
-<img align="right" alt="Developer" width="400" src="https://github.com/user-attachments/assets/965f963c-7e78-454b-acc4-e39bc7aafb19">
+
+<img align="right" alt="Developer" width="500" src="https://github.com/user-attachments/assets/965f963c-7e78-454b-acc4-e39bc7aafb19">
+
+
+- 🌱 I’m currently learning **React framework**
+
+- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, jQuery, SQL, MongoDB, React, Node and express**
+
+- 📫 How to reach me **omkarrajurkar6@gmail.com**
+
+- ⚡ Fun fact **you get life only once so enjoy, learn and explore 😉**
 
 
 <!--
