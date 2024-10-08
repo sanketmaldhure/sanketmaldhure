@@ -10,13 +10,17 @@ MERN Stack Developer adept at crafting dynamic web solutions. Proficient in Mong
 <img align="right" alt="Developer" width="500" src="https://github.com/user-attachments/assets/965f963c-7e78-454b-acc4-e39bc7aafb19">
 
  ## 🙍‍♂️ About Me
-- 🌱 I’m currently learning **React framework**
+<!-- - 🔭 I’m currently working on **Microservices Projects** -->
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, jQuery, SQL, MongoDB, React, Node and express**
+- 🌱 I’m currently learning **Data Structures and Algorithms.**
 
-- 📫 How to reach me **omkarrajurkar6@gmail.com**
+- 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- ⚡ Fun fact **you get life only once so enjoy, learn and explore 😉**
+- 📫 How to reach me **abhigadlinge@gmail.com**
+
+- 👨‍💻 All of my projects are available at **[My Portfolio]()** 
+
+<!-- - ⚡ Fun fact **I just love to code have tea and again code** -->
 
 
 <!--
