@@ -25,8 +25,8 @@ MERN Stack Developer adept at crafting dynamic web solutions. Proficient in Mong
 ## 🚀 Languages and Tools:
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=solidity" height="30" alt="solidity logo"  />
-  <img width="12" />
+<!--   <img src="https://skillicons.dev/icons?i=solidity" height="30" alt="solidity logo"  />
+  <img width="12" /> -->
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
