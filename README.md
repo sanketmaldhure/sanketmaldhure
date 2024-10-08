@@ -73,6 +73,12 @@ MERN Stack Developer adept at crafting dynamic web solutions. Proficient in Mong
 </div>
 
 
+<p align="center">
+    <a href="https://github.com/Chandrakant92/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="sanket's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sanketmaldhure&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
 
 <!--
 **sanketmaldhure/sanketmaldhure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
