@@ -71,6 +71,7 @@ MERN Stack Developer adept at crafting dynamic web solutions. Proficient in Mong
   <img width="12" />
   <img src="https://cdn.simpleicons.org/gitlab/FC6D26" height="30" alt="gitlab logo"  />
 </div>
+<br/>
 
 
 ## 📊 My Github Stats
