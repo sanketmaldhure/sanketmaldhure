@@ -88,18 +88,18 @@ MERN Stack Developer adept at crafting dynamic web solutions. Proficient in Mong
 <a href="https://github.com/sanketmaldhure/github-readme-stats"><img alt="Sanket's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanketmaldhure&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
-  ### Let's Connect :coffee:
+ ## ❤️ Connect with me:
 <div align="left">
-  <a href="mailto:abhigadlinge@gmail.com" target="_blank">
+  <a href="mailto:sanketmaldhure2710@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=E-Mail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://twitter.com/abhigadlinge" target="_blank">
+  <a href="https://twitter.com/SanketMaldhure" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/abhijeet-gadlinge-794a711bb/" target="_blank">
+  <a href="https://www.linkedin.com/in/sanket-maldhure-913737204/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://discord.gg/abhigadlinge" target="_blank">
+  <a href="https://discord.gg/sanket" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
