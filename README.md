@@ -74,7 +74,6 @@ MERN Stack Developer adept at crafting dynamic web solutions. Proficient in Mong
 
 
 ## 📊 My Github Stats
-<div align="center>
 
  <p align="center">
     <a href="https://github.com/sanketmaldhure/github-readme-streak-stats">
@@ -87,7 +86,6 @@ MERN Stack Developer adept at crafting dynamic web solutions. Proficient in Mong
  </span
 
 <a href="https://github.com/sanketmaldhure/github-readme-stats"><img alt="Sanket's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanketmaldhure&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-</div>
   <br/>
 <!--
 **sanketmaldhure/sanketmaldhure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
