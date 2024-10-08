@@ -1,6 +1,6 @@
 ## Hey,  I'm Sanket Maldhure <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> it's nice to meet you
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&duration=3000&pause=1000&color=FFD95A&width=600&height=45&lines=I+am+a+Full+Stack+Web+Developer;I+am+a+Front-end+Developer;I+am+a+Back-end+Developer;I+am+a+React+Developer;I+am+an+open+source+contributor)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&center=true&width=435&lines=Hey+I'm+Full+Stack++Web+Developer;+Hey+I'm+Front-end+Developer;Hey+I'm+Back-end+Developer;Hey+I'm+React+js+Developer;Hey+I'm+Node+js+Developer;Hey+I'm+Open+Source+Contributer)](https://git.io/typing-svg)
 
 <!--
 **sanketmaldhure/sanketmaldhure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
