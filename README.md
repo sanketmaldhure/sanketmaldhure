@@ -9,7 +9,7 @@ MERN Stack Developer adept at crafting dynamic web solutions. Proficient in Mong
 
 <img align="right" alt="Developer" width="500" src="https://github.com/user-attachments/assets/965f963c-7e78-454b-acc4-e39bc7aafb19">
 
-
+ ## 🙍‍♂️ About Me
 - 🌱 I’m currently learning **React framework**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, jQuery, SQL, MongoDB, React, Node and express**
