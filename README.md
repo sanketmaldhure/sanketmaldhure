@@ -73,8 +73,9 @@ MERN Stack Developer adept at crafting dynamic web solutions. Proficient in Mong
 </div>
 
 
+## 📊 My Github Stats
 <p align="center">
-    <a href="https://github.com/Chandrakant92/github-readme-streak-stats">
+    <a href="https://github.com/sanketmaldhure/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="sanket's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sanketmaldhure&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
