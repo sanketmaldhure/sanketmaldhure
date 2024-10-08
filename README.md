@@ -22,6 +22,33 @@ MERN Stack Developer adept at crafting dynamic web solutions. Proficient in Mong
 
 <!-- - ⚡ Fun fact **I just love to code have tea and again code** -->
 
+## 🚀 Languages and Tools:
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=solidity" height="30" alt="solidity logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="30" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/gitlab/FC6D26" height="30" alt="gitlab logo"  />
+</div>
+
+
 
 <!--
 **sanketmaldhure/sanketmaldhure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
