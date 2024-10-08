@@ -16,7 +16,7 @@ MERN Stack Developer adept at crafting dynamic web solutions. Proficient in Mong
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me **abhigadlinge@gmail.com**
+- 📫 How to reach me **sanketmaldhure2710@gmail.com**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio]()** 
 
