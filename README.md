@@ -6,10 +6,10 @@ MERN Stack Developer adept at crafting dynamic web solutions. Proficient in Mong
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanketmaldhure-github-username&style=flat-square" alt="sanketmaldhure" /></p>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhigadlinge&label=Profile%20views&color=0e75b6&style=flat" alt="sanketmaldhure" /> </p> -->
 
-
+ ## 🙍‍♂️ About Me
 <img align="right" alt="Developer" width="500" src="https://github.com/user-attachments/assets/965f963c-7e78-454b-acc4-e39bc7aafb19">
 
- ## 🙍‍♂️ About Me
+
 <!-- - 🔭 I’m currently working on **Microservices Projects** -->
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
