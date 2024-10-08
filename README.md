@@ -5,7 +5,8 @@
 MERN Stack Developer adept at crafting dynamic web solutions. Proficient in MongoDB, Express.js, React, and Node.js, with a keen focus on delivering seamless user experiences. Passionate about integrating cutting-edge technologies to build robust and efficient applications. Collaborative team member with a drive to continuously expand skills and stay at the forefront of modern web development trends
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanketmaldhure-github-username&style=flat-square" alt="sanketmaldhure" /></p>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhigadlinge&label=Profile%20views&color=0e75b6&style=flat" alt="sanketmaldhure" /> </p> -->
-<img align="right" alt="Developer" width="500" src="https://github.com/user-attachments/assets/965f963c-7e78-454b-acc4-e39bc7aafb19">
+
+<img align="right" alt="Developer" width="400" src="https://github.com/user-attachments/assets/965f963c-7e78-454b-acc4-e39bc7aafb19">
 
 
 <!--
