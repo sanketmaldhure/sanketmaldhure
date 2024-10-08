@@ -22,6 +22,10 @@ MERN Stack Developer adept at crafting dynamic web solutions. Proficient in Mong
 
 <!-- - ⚡ Fun fact **I just love to code have tea and again code** -->
 
+
+
+
+
 ## 🚀 Languages and Tools:
 
 <div align="left">
@@ -41,7 +45,7 @@ MERN Stack Developer adept at crafting dynamic web solutions. Proficient in Mong
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
   <img width="12" />
-   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" height="30" alt="express logo"  />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" height="30" alt="express logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo"  />
   <img width="12" />
