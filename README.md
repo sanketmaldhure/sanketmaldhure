@@ -1,6 +1,6 @@
- <h3 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15px"> , I'm  Sanket Maldhure </h3> 
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) <h1>I'm Sanket Maldhure</h1>
 
-##<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&width=435&lines=+I+am+Full+Stack++Web+Developer;++I+am+Front-end+Developer;+I+am+Back-end+Developer;I+am+React+js+Developer;I+am+Node+js+Developer;I+am+Open+Source+Contributer" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&width=435&lines=+I+am+Full+Stack++Web+Developer;++I+am+Front-end+Developer;+I+am+Back-end+Developer;I+am+React+js+Developer;I+am+Node+js+Developer;I+am+Open+Source+Contributer)](https://git.io/typing-svg)
 
 
 <!--
