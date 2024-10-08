@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&width=435&lines=+I+am+Full+Stack++Web+Developer;++I+am+Front-end+Developer;+I+am+Back-end+Developer;I+am+React+js+Developer;I+am+Node+js+Developer;I+am+Open+Source+Contributer)](https://git.io/typing-svg)
 
-I am a full stack developer with a focus on the MERN stack (MongoDB, Express, React, and Node.js). With experience in both front-end and back-end development, I have a well-rounded skillset that allows me to build and maintain complex web applications from start to finish. In addition to my technical skills, I am a strong problem-solver and always looking for ways to improve my processes and increase efficiency. When I'm not coding, you can find me tinkering with new technologies and participating in hackathons and coding challenges.
+MERN Stack Developer adept at crafting dynamic web solutions. Proficient in MongoDB, Express.js, React, and Node.js, with a keen focus on delivering seamless user experiences. Passionate about integrating cutting-edge technologies to build robust and efficient applications. Collaborative team member with a drive to continuously expand skills and stay at the forefront of modern web development trends****
 
 
 <!--
