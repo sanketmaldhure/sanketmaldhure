@@ -28,9 +28,9 @@ MERN Stack Developer adept at crafting dynamic web solutions. Proficient in Mong
 <!--   <img src="https://skillicons.dev/icons?i=solidity" height="30" alt="solidity logo"  />
   <img width="12" /> -->
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  />
- <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+<!--  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
- </a>
+<!--  </a> -->
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
   <img width="12" />
