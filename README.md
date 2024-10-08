@@ -7,7 +7,7 @@ MERN Stack Developer adept at crafting dynamic web solutions. Proficient in Mong
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhigadlinge&label=Profile%20views&color=0e75b6&style=flat" alt="sanketmaldhure" /> </p> -->
 
  ## 🙍‍♂️ About Me
-<img align="right" alt="Developer" width="500" src="https://github.com/user-attachments/assets/965f963c-7e78-454b-acc4-e39bc7aafb19">
+<img align="right" alt="Developer" width="400" src="https://github.com/user-attachments/assets/965f963c-7e78-454b-acc4-e39bc7aafb19">
 
 
 <!-- - 🔭 I’m currently working on **Microservices Projects** -->
@@ -28,9 +28,6 @@ MERN Stack Developer adept at crafting dynamic web solutions. Proficient in Mong
 <!--   <img src="https://skillicons.dev/icons?i=solidity" height="30" alt="solidity logo"  />
   <img width="12" /> -->
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  />
-<!--  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="35" height="35"/>
-<!--  </a> -->
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
   <img width="12" />
