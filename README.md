@@ -49,6 +49,14 @@ MERN Stack Developer adept at crafting dynamic web solutions. Proficient in Mong
   <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" height="30" alt="express logo"  />
   <img width="12" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" height="30" alt="html logo"  />
+  <img width="12" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" height="30" alt="css logo"  />
+  <img width="12" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" height="30" alt="tailwind logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo"  />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
