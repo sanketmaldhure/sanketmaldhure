@@ -55,7 +55,7 @@ MERN Stack Developer adept at crafting dynamic web solutions. Proficient in Mong
   <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" height="30" alt="tailwind logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo"  />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Dark.svg" height="30" alt="material ui logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo"  />
   <img width="12" />
