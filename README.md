@@ -1,4 +1,6 @@
-## Hey,  I'm Sanket Maldhure <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> it's nice to meet you|
+## Hey,  I'm Sanket Maldhure <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> it's nice to meet you
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&duration=3000&pause=1000&color=FFD95A&width=600&height=45&lines=I+am+a+Full+Stack+Web+Developer;I+am+a+Front-end+Developer;I+am+a+Back-end+Developer;I+am+a+React+Developer;I+am+an+open+source+contributor)
 
 <!--
 **sanketmaldhure/sanketmaldhure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
