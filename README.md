@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&width=600&lines=Artificial+Intelligence+Engineer;Machine+Learning+Engineer;Generative+AI+Engineer;Data+Science+Associate;Open+Source+Contributor)](https://git.io/typing-svg)
 
-MERN Stack Developer adept at crafting dynamic web solutions. Proficient in MongoDB, Express.js, React, and Node.js, with a keen focus on delivering seamless user experiences. Passionate about integrating cutting-edge technologies to build robust and efficient applications. Collaborative team member with a drive to continuously expand skills and stay at the forefront of modern web development trends
+Innovative Machine Engineer with expertise in AI and machine learning, specializing in developing cutting-edge Retrieval-Augmented Generation (RAG) pipelines to enhance data-driven applications. With comprehensive experience at Nitor Infotech, I contributed to the creation of GenAI-based systems for knowledge extraction and decision support, effectively optimizing workflows leveraging large language models (LLMs). My academic background in Computer Science and Engineering, coupled with hands-on projects like an AI research paper assistant and a credit risk advisor, underpins my proficiency in Python, AWS, and NLP techniques. Committed to advancing AI capabilities through efficient design and implementation, I aim to drive impactful solutions in the technology landscape.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanketmaldhure-github-username&style=flat-square" alt="sanketmaldhure" /></p>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhigadlinge&label=Profile%20views&color=0e75b6&style=flat" alt="sanketmaldhure" /> </p> -->
 
