@@ -1,119 +1,148 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> , I'm Sanket Maldhure </h1>
+```markdown
+<h1 align="center">
+  Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sanket Maldhure
+</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&width=600&lines=Artificial+Intelligence+Engineer;Machine+Learning+Engineer;Generative+AI+Engineer;Data+Science+Associate;Open+Source+Contributor)](https://git.io/typing-svg)
-
-Innovative Machine Engineer with expertise in AI and machine learning, specializing in developing cutting-edge Retrieval-Augmented Generation (RAG) pipelines to enhance data-driven applications. With comprehensive experience at Nitor Infotech, I contributed to the creation of GenAI-based systems for knowledge extraction and decision support, effectively optimizing workflows leveraging large language models (LLMs). My academic background in Computer Science and Engineering, coupled with hands-on projects like an AI research paper assistant and a credit risk advisor, underpins my proficiency in Python, AWS, and NLP techniques. Committed to advancing AI capabilities through efficient design and implementation, I aim to drive impactful solutions in the technology landscape.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanketmaldhure-github-username&style=flat-square" alt="sanketmaldhure" /></p>
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhigadlinge&label=Profile%20views&color=0e75b6&style=flat" alt="sanketmaldhure" /> </p> -->
-
- ## 🙍‍♂️ About Me
-<img align="right" alt="Developer" width="250" src="https://github.com/user-attachments/assets/965f963c-7e78-454b-acc4-e39bc7aafb19">
-
-
-<!-- - 🔭 I’m currently working on **Microservices Projects** -->
-
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 📫 How to reach me **sanketmaldhure2710@gmail.com**
-
-- 👨‍💻 All of my projects are available at **[My Portfolio]()** 
-
-<!-- - ⚡ Fun fact **I just love to code have tea and again code** -->
-<br/>
-
-
-
-
-
-## 🚀 Languages and Tools:
-
-<div align="left">
-<!--   <img src="https://skillicons.dev/icons?i=solidity" height="30" alt="solidity logo"  />
-  <img width="12" /> -->
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" height="30" alt="C logo"  />
-  <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" height="30" alt="C++ logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  />
-  <img width="12" />
-<!--   <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="30" alt="nestjs logo"  />
-  <img width="12" /> -->
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" height="30" alt="html logo"  />
-  <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" height="30" alt="css logo"  />
-  <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" height="30" alt="tailwind logo"  />
-  <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Dark.svg" height="30" alt="material ui logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
-  <img width="12" />
- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Light.svg" height="30" alt="aws logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/gitlab/FC6D26" height="30" alt="gitlab logo"  />
-</div>
-<br/>
-
-
-## 📊 My Github Stats
-
- <p align="center">
-    <a href="https://github.com/sanketmaldhure/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="sanket's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sanketmaldhure&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+Engineer;Machine+Learning+Engineer;Generative+AI+Engineer;Data+Science+Associate;Open+Source+Contributor" />
+  </a>
 </p>
 
- <span> 
-    <a href="https://github.com/sanketmaldhure/github-readme-stats"><img alt="Sanket's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sanketmaldhure&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
- </span
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sanketmaldhure&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+</p>
 
-<a href="https://github.com/sanketmaldhure/github-readme-stats"><img alt="Sanket's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanketmaldhure&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
+---
 
- ## ❤️ Connect with me:
-<div align="left">
-  <a href="mailto:sanketmaldhure2710@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=E-Mail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://twitter.com/SanketMaldhure" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
+## 🚀 About Me
+
+<img align="right" alt="AI Engineer" width="300" src="https://github.com/user-attachments/assets/0b3fd605-358a-4235-987d-aa20b858e304">
+
+I'm an **Artificial Intelligence & Machine Learning Engineer** passionate about building intelligent applications using **Generative AI, Large Language Models (LLMs), NLP, and Retrieval-Augmented Generation (RAG)**.
+
+- 🤖 Building AI-powered applications using LLMs
+- 🔍 Specialized in RAG Pipelines & Knowledge Retrieval Systems
+- ☁️ Experienced with AWS Cloud Services
+- 📚 Currently learning Data Structures & Algorithms
+- 🌱 Exploring Agentic AI & Multi-Agent Systems
+- 👯 Open to Open Source Contributions
+- 💡 Interested in AI Research and Product Development
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://skillicons.dev/icons?i=cpp" />
+  <img src="https://skillicons.dev/icons?i=javascript" />
+</p>
+
+### AI / Machine Learning
+
+<p>
+  <img src="https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NLP-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Generative%20AI-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-orange?style=for-the-badge" />
+</p>
+
+### Frameworks & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi" />
+  <img src="https://skillicons.dev/icons?i=flask" />
+  <img src="https://skillicons.dev/icons?i=docker" />
+  <img src="https://skillicons.dev/icons?i=aws" />
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=github" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=postgres" />
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+### 📄 AI Research Paper Assistant
+AI-powered assistant that summarizes and answers questions from research papers using LLMs and RAG.
+
+### 💳 Credit Risk Advisor
+Machine learning application for evaluating creditworthiness and risk assessment.
+
+### 🤖 Enterprise Knowledge Assistant
+GenAI-powered knowledge retrieval system for enterprise documentation.
+
+### 📚 RAG-Based Document Chatbot
+Chat with PDFs and documents using Vector Databases and LLMs.
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=sanketmaldhure&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanketmaldhure&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanketmaldhure&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sanketmaldhure&theme=algolia&row=1&column=7&no-frame=true" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanketmaldhure&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
   <a href="https://www.linkedin.com/in/sanket-maldhure-913737204/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://discord.gg/sanket" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</div>
-<!--
-**sanketmaldhure/sanketmaldhure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+  <a href="https://github.com/sanketmaldhure">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<h3 align="center">
+⭐ Building Intelligent Systems with AI, ML & Generative AI ⭐
+</h3>
+```
