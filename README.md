@@ -1,6 +1,6 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> , I'm Sanket Maldhure </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&width=435&lines=+I+am+AI+Engineer++;++I+am+Machine+Learning+Engineer;+I+am+Back-end+Developer;I+am+React+js+Developer;I+am+Node+js+Developer;I+am+Open+Source+Contributer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&width=435&lines=+I+am+Artificial+Intelligence+Engineer++;++I+am+Machine+Learning+Engineer;+I+am+Gen-AI+Engineer;I+am+React+;I+am+Open+Source+Contributer)](https://git.io/typing-svg)
 
 MERN Stack Developer adept at crafting dynamic web solutions. Proficient in MongoDB, Express.js, React, and Node.js, with a keen focus on delivering seamless user experiences. Passionate about integrating cutting-edge technologies to build robust and efficient applications. Collaborative team member with a drive to continuously expand skills and stay at the forefront of modern web development trends
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanketmaldhure-github-username&style=flat-square" alt="sanketmaldhure" /></p>
